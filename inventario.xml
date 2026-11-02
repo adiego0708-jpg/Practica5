@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventario>
+  <producto id="1">
+    <nombre>Espresso</nombre>
+    <categoria>Bebidas</categoria>
+    <precio>35</precio>
+    <stock>12</stock>
+  </producto>
+  <producto id="2">
+    <nombre>Café amp; Postres Combo</nombre>
+    <categoria>Combos</categoria>
+    <precio>60</precio>
+    <stock>3</stock>
+  </producto>
+  <producto id="3">
+    <nombre>Latte de vainilla</nombre>
+    <categoria>Bebidas</categoria>
+    <precio>48</precio>
+    <stock>2</stock>
+  </producto>
+  <producto id="4">
+    <nombre>Muffin de arándano</nombre>
+    <categoria>Panadería</categoria>
+    <precio>40</precio> //Elegi que el precio sea de 40 porque lo compare con el precio de los demas productos y se me hizo un precio razonable, ni el mas caro ni el mas barato
+    <stock>4</stock>
+  </producto>
+    <producto id="5">
+    <nombre>Cold brew</nombre>
+    <categoria>Bebidas</categoria>
+    <precio>52</precio>
+    <stock>8</stock>
+  </producto>
+</inventario>
+
+
